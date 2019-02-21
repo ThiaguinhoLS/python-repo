@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 class Pet(object):
 
     def __init__(self, name):
