@@ -14,4 +14,3 @@ def show_number(x):
 
 assert show_number(10) == 10
 assert show_number(-10) == 10
-
